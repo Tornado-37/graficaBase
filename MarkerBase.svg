@@ -1,29 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="32"
-   height="32"
-   viewBox="0 0 32 32"
-   version="1.1"
-   id="svg1"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs1" />
-  <g
-     id="layer1">
-    <ellipse
-       style="fill:#d45353;stroke-width:2.02504"
-       id="path1"
-       cx="16.375719"
-       cy="11.279425"
-       rx="11.081893"
-       ry="11.147737" />
-    <path
-       style="fill:#d45353"
-       id="path4"
-       d="M 8.8230451,11.140741 C 5.6754169,16.660494 5.6754169,16.660494 2.468984,11.174692 -0.73744887,5.6888888 -0.73744887,5.6888888 5.6166122,5.6549379 11.970673,5.620987 11.970673,5.620987 8.8230451,11.140741 Z"
-       transform="matrix(2.0707311,0,0,2.0797811,4.6991325,-0.93881729)" />
-  </g>
+<svg width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+ <g id="marker" fill="#d45353">
+  <ellipse cx="16.376" cy="11.279" rx="11.082" ry="11.148" stroke-width="2.025"/>
+  <path transform="matrix(2.0707 0 0 2.0798 4.6991 -.93882)" d="m8.823 11.141c-3.1476 5.5198-3.1476 5.5198-6.3541 0.033951-3.2064-5.4858-3.2064-5.4858 3.1476-5.5198 6.3541-0.033951 6.3541-0.033951 3.2064 5.4858z"/>
+ </g>
 </svg>
